@@ -10,6 +10,17 @@ printMultiplicationTable(12);
 
 
 
+// https://gonitzoggo.com/problems/topics
+
+problem solve ar site :
+1. beecrowd
+2. UVa
+3. codeforces
+4. codeshape
+5. heakerrank
+
+
+
 
 
 
